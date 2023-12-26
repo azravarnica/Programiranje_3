@@ -1,0 +1,12 @@
+C:\Users\V&A\source\repos\FIT\FIT.Data\bin\Debug\net6.0\FIT.Data.deps.json
+C:\Users\V&A\source\repos\FIT\FIT.Data\bin\Debug\net6.0\FIT.Data.dll
+C:\Users\V&A\source\repos\FIT\FIT.Data\bin\Debug\net6.0\FIT.Data.pdb
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\FIT.Data.csproj.AssemblyReference.cache
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\FIT.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\FIT.Data.AssemblyInfoInputs.cache
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\FIT.Data.AssemblyInfo.cs
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\FIT.Data.csproj.CoreCompileInputs.cache
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\FIT.Data.dll
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\refint\FIT.Data.dll
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\FIT.Data.pdb
+C:\Users\V&A\source\repos\FIT\FIT.Data\obj\Debug\net6.0\ref\FIT.Data.dll

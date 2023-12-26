@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FIT.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "FIT.Data": "1.0.0",
+          "FIT.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "FIT.ConsoleApp.dll": {}
+        }
+      },
+      "FIT.Data/1.0.0": {
+        "runtime": {
+          "FIT.Data.dll": {}
+        }
+      },
+      "FIT.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FIT.Data": "1.0.0"
+        },
+        "runtime": {
+          "FIT.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FIT.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIT.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIT.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\bin\Debug\net6.0\FIT.Infrastructure.deps.json
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\bin\Debug\net6.0\FIT.Infrastructure.dll
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\bin\Debug\net6.0\FIT.Infrastructure.pdb
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\bin\Debug\net6.0\FIT.Data.dll
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\bin\Debug\net6.0\FIT.Data.pdb
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.AssemblyInfo.cs
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.csproj.CopyComplete
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.dll
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\refint\FIT.Infrastructure.dll
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\FIT.Infrastructure.pdb
+C:\Users\V&A\source\repos\FIT\FIT.Infrastructure\obj\Debug\net6.0\ref\FIT.Infrastructure.dll

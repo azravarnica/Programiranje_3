@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dn7W9zONZYTFcFU2szq/DyEE+wKIj0vKK4DXl+QYcN8JhkkMNsFJJtOGODovH28Fat9vPbhXXnAiUU/XnKpEiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\V&A\\source\\repos\\FIT\\FIT.Data\\FIT.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V&A\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\V&A\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
